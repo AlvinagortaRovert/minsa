@@ -1,0 +1,2 @@
+# minsa
+archivo crud
